@@ -1,0 +1,8 @@
+.container {
+  align-items: center;
+  background-image: linear-gradient(180deg, #8ce9bd, #4a33df 100%);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 40px 0;
+}
